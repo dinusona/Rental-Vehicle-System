@@ -1,0 +1,2 @@
+Plate Number:7990  Bike Brand:suzuki  Bike Model:bandid  Bike Condition:on-road  Bike Transmission Type:manual  Bike Seat capacity:2  Bike Storage capacity:0  Bike Fuel Type:petrol  Bike Rate per Hour:12.0  Helmet Number:1  Jacket Number  :1  Bike Cylinder capacity:250
+Plate Number:6050  Bike Brand:Ymaha  Bike Model:R1  Bike Condition:racing  Bike Transmission Type:manual  Bike Seat capacity:1  Bike Storage capacity:0  Bike Fuel Type:petrol  Bike Rate per Hour:20.0  Helmet Number:4  Jacket Number  :4  Bike Cylinder capacity:1000

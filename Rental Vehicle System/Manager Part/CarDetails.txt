@@ -1,0 +1,5 @@
+Plate Number:6996  Car Brand:Audi  Car Model:A8  Car Condition:lux  Car Transmission Type:auto  Car Seat capacity:5  Car Storage capacity:70  Car Fuel Type:petrol  Car Rate per Hour:2.0  Car Driver Name:Nimal
+Plate Number:7878  Car Brand:BMW  Car Model:i8  Car Condition:lux-sport  Car Transmission Type:auto  Car Seat capacity:2  Car Storage capacity:30  Car Fuel Type:petrol  Car Rate per Hour:25.0  Car Driver Name:nimal
+Plate Number:6767  Car Brand:honda  Car Model:grace  Car Condition:semi-lux  Car Transmission Type:auto  Car Seat capacity:5  Car Storage capacity:50  Car Fuel Type:petrol  Car Rate per Hour:14.0  Car Driver Name:nihal
+Plate Number:4890  Car Brand:BMW  Car Model:318i  Car Condition:luxury  Car Transmission Type:auto  Car Seat capacity:5  Car Storage capacity:50  Car Fuel Type:petrol  Car Rate per Hour:20.0  Car Driver Name:nihal
+Plate Number:4343  Car Brand:honda  Car Model:civic  Car Condition:semi-lux  Car Transmission Type:auto  Car Seat capacity:5  Car Storage capacity:60  Car Fuel Type:petrol  Car Rate per Hour:12.0  Car Driver Name:kamal
